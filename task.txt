@@ -1,0 +1,16 @@
+1. Создание приложения todo-list (пример https://todomvc.com/examples/vue/)
+
+Основная задача реализовать функционал. Внешний вид опционален.
+
+Функционал:
+  добавление в список дел
+  удаление из списка
+  отметить как выполненное
+  подсчет общего количества и выполненных дел
+
+
+Почитать
+  https://learn.javascript.ru/function-basics
+  https://learn.javascript.ru/modules
+  https://learn.javascript.ru/modifying-document
+
